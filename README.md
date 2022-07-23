@@ -10,7 +10,6 @@
 
 [sonrisa](https://github.com/aprilkrg/sonrisa)
 
-[issues-that-matter](https://github.com/aprilkrg/Issues-That-Matter)
 
 
 
