@@ -8,7 +8,7 @@
 
 [to-do](https://github.com/aprilkrg/to-do-react)
 
-[burger-stacker](https://github.com/aprilkrg/react-burger-stacker)
+[burger-stacker](https://github.com/aprilkrg/react-burger-stacker), with Tailwind
 
 [dental-spa](https://github.com/aprilkrg/dental-spa)
 
