@@ -14,6 +14,8 @@
 
 [react-dino-blog](https://github.com/aprilkrg/react-dino-blog)
 
+[dino-blog-functions](https://github.com/aprilkrg/dino-blog-functions)
+
 [router-portfolio](https://github.com/aprilkrg/react-router-portfolio)
 
 [react-calc](https://github.com/aprilkrg/react-calc)
