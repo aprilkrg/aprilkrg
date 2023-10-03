@@ -1,6 +1,6 @@
 ## My Coding Projects:
 
-[wuxia-tamagotchi](https://github.com/aprilkrg/wuxia-tamagotchi)
+[tamagotchi](https://github.com/aprilkrg/tamagotchi)
 
 [meal-planner](https://github.com/aprilkrg/meal-planner)
 
