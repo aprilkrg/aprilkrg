@@ -1,6 +1,8 @@
 ## My Coding Projects:
 
-[tamagotchi](https://github.com/aprilkrg/tamagotchi)
+[Tamagotchi](https://github.com/aprilkrg/tamagotchi)
+
+[ACNH Villager Explorer](https://github.com/aprilkrg/acnh-villagers)
 
 [meal-planner](https://github.com/aprilkrg/meal-planner)
 
